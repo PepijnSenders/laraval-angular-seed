@@ -4,7 +4,7 @@
 	"keywords": ["framework", "laravel"],
 	"require": {
 		"laravel/framework": "4.0.*",
-        "sledgehammer/core": "*"
+        "pepijnsenders/generators": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
