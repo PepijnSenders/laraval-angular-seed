@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'default' => 'development',
+	'default' => App::environment(),
 
 	/*
 	|--------------------------------------------------------------------------
