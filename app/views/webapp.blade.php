@@ -10,8 +10,6 @@
     </head>
     <body ng-app="app">
 
-        @include('statusbar')
-
         @include('assets')
 
     </body>
