@@ -6,8 +6,6 @@
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
 
-require __DIR__.'/../vendor/sledgehammer/core/render_public_folders.php';
-
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
