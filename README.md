@@ -12,6 +12,7 @@ To install:
     bower install;
     npm install;
     grunt;
+    sudo chmod -R 777 app/storage;
     composer update;
 
 One-liner:

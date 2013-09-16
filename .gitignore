@@ -1,6 +1,7 @@
 /bootstrap/compiled.php
 /vendor
 composer.lock
+public/.sass_cache/
 
 .DS_Store
 .AppleDouble
